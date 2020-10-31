@@ -4,7 +4,7 @@
 
 Allow to view & control all your zones register on your *Daikin* Airzone Cloud ([dkn.airzonecloud.com](https://dkn.airzonecloud.com)) account from [Home Assistant](https://www.home-assistant.io/).
 
-If you're looking for the main Airzone Cloud ([airzonecloud.com](https://airzonecloud.com)), use this plugin : https://github.com/max13fr/AirzoneCloud
+If you're looking for the main Airzone Cloud ([airzonecloud.com](https://airzonecloud.com)), use this plugin : https://github.com/max13fr/Airzonecloud-HomeAssistant
 
 ![Screenshot](screenshot.png)
 
