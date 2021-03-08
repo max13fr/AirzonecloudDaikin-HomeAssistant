@@ -6,5 +6,6 @@
   "dependencies": [],
   "after_dependencies": ["http"],
   "codeowners": ["@max13fr"],
+  "version": "0.4.0",
   "requirements": ["AirzoneCloudDaikin==0.4.0"]
 }
